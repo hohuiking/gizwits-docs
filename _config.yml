@@ -72,5 +72,4 @@ theme: documentation
 deploy:
   type: git
   repo: 
-    github: git@github.com:gizwits-docs/gizwits-docs.github.io.git
-    gitlab: git@gitlab.gizwits.com:gizwits-site/gizwits-doc-static.git
+    github: git@github.com:hohuiking/gizwits-docs.github.io.git

@@ -1,6 +1,6 @@
 # gizwits-docs
 
-[![Build Status](https://travis-ci.org/gizwits-docs/gizwits-docs.svg?branch=master)](https://travis-ci.org/gizwits-docs/gizwits-docs)
+[![Build Status](https://travis-ci.org/hohuiking/gizwits-docs.svg?branch=master)](https://travis-ci.org/hohuiking/gizwits-docs)
 
 
 # 文档编写
